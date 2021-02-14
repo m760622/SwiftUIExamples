@@ -5,6 +5,8 @@
 //  Created by Mohammed Abunada on 2020-06-18.
 //  Copyright © 2020 NMDS. All rights reserved.
 // https://github.com/m760622
+// AnimatedSideMenuView
+
 
 
 import SwiftUI
